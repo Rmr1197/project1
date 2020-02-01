@@ -31,7 +31,7 @@ Oregon Slope deep summer = 2
 ![](project1/images/6.png)
 Average = 3.5 dives
 
-	Shallow CTD Sites
+Shallow CTD Sites
 
 Axial Base shallow winter = 8
  ![](project1/images/7.png)
