@@ -18,8 +18,10 @@ Generally the CTD devices collecting data made more dives in shallow waters.
 Deep CTD Sites
 
 Axial Base deep winter = 2 
+
 ![](https://github.com/Rmr1197/project1/blob/master/images/1.PNG)
 Axial Base deep summer = 2
+
 ![](https://github.com/Rmr1197/project1/blob/master/images/2.PNG)
 Oregon Offshore deep winter = 12
 ![](https://github.com/Rmr1197/project1/blob/master/images/3.PNG)
