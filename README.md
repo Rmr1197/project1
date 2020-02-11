@@ -46,17 +46,29 @@ Average = 3.5 dives
 Shallow CTD Sites
 
 Axial Base shallow winter = 8
+
  ![](https://github.com/Rmr1197/project1/blob/master/images/7.PNG)
+ 
 Axial Base shallow summer = 2
+
 ![](https://github.com/Rmr1197/project1/blob/master/images/8.PNG)
+
 Oregon Offshore shallow winter = 6
+
 ![](https://github.com/Rmr1197/project1/blob/master/images/9.PNG)
+
 Oregon Offshore shallow summer = 6
+
 ![](https://github.com/Rmr1197/project1/blob/master/images/10.PNG)
+
 Oregon Slope shallow winter = 6
+
 ![](https://github.com/Rmr1197/project1/blob/master/images/11.PNG)
+
 Oregon Slope shallow summer = 6
+
 ![](https://github.com/Rmr1197/project1/blob/master/images/12.PNG)
+
 Average = 5.7 dives
 	
 b.	The maximum value of the speed of sound for each CTD site is generally at the greatest depth. This is because the speed of sound is dependent on salinity, temperature, and pressure. SSP has a positive relationship with these three variables. While temperature generally decreases with depth, it is a very small decrease, and generally does not affect SSP as much as the other two variables. It is common to see salinity increase with depth because saltwater is more dense than freshwater, so it falls to greater depths. Fluid mechanics tells us that hydrostatic pressure increases linearly with depth.
