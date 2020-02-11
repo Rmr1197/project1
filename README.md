@@ -28,12 +28,19 @@ Axial Base deep summer = 2
 Oregon Offshore deep winter = 12
 
 ![](https://github.com/Rmr1197/project1/blob/master/images/3.PNG)
+
 Oregon Offshore deep summer = 2
+
 ![](https://github.com/Rmr1197/project1/blob/master/images/4.PNG)
+
 Oregon Slope deep winter = 1
+
 ![](https://github.com/Rmr1197/project1/blob/master/images/5.PNG)
+
 Oregon Slope deep summer = 2
+
 ![](https://github.com/Rmr1197/project1/blob/master/images/6.PNG)
+
 Average = 3.5 dives
 
 Shallow CTD Sites
